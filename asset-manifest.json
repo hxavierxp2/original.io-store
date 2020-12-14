@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/hxavierxp2/original.io-store/static/css/main.de2ed745.chunk.css",
-    "main.js": "/hxavierxp2/original.io-store/static/js/main.e2251e2b.chunk.js",
-    "main.js.map": "/hxavierxp2/original.io-store/static/js/main.e2251e2b.chunk.js.map",
+    "main.js": "/hxavierxp2/original.io-store/static/js/main.9420303e.chunk.js",
+    "main.js.map": "/hxavierxp2/original.io-store/static/js/main.9420303e.chunk.js.map",
     "runtime-main.js": "/hxavierxp2/original.io-store/static/js/runtime-main.e9bc0652.js",
     "runtime-main.js.map": "/hxavierxp2/original.io-store/static/js/runtime-main.e9bc0652.js.map",
     "static/css/2.28ad1ff4.chunk.css": "/hxavierxp2/original.io-store/static/css/2.28ad1ff4.chunk.css",
@@ -25,6 +25,6 @@
     "static/css/2.28ad1ff4.chunk.css",
     "static/js/2.cfc5a3d4.chunk.js",
     "static/css/main.de2ed745.chunk.css",
-    "static/js/main.e2251e2b.chunk.js"
+    "static/js/main.9420303e.chunk.js"
   ]
 }
